@@ -13,7 +13,7 @@ Qt+C++实现的串口通信工具带实时曲线图SerialPort-Communication
 工具：VS,QT
 
 ## 运行效果
-<img src="https://github.com/alicema-creator/SerialPort-Communication/main/screenshot/1.png" width="500"></a>
+<img src="https://github.com/alicema-creator/SerialPort-Communication/tree/main/screenshot/1.png" width="500"></a>
 
 
 ## 在线协助
