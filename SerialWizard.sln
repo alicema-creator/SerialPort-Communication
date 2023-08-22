@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SerialWizard", "SerialWizard.vcxproj", "{355D76D0-2949-324D-AE19-469FF5ACB771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355D76D0-2949-324D-AE19-469FF5ACB771}.Debug|x64.ActiveCfg = Debug|x64
+		{355D76D0-2949-324D-AE19-469FF5ACB771}.Debug|x64.Build.0 = Debug|x64
+		{355D76D0-2949-324D-AE19-469FF5ACB771}.Release|x64.ActiveCfg = Release|x64
+		{355D76D0-2949-324D-AE19-469FF5ACB771}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC500A0-2D7A-4558-87A7-9FCFF6C0119A}
+	EndGlobalSection
+EndGlobal
